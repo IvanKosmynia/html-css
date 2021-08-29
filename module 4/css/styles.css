@@ -1,0 +1,21 @@
+p {color: rgb(214, 29, 29);}
+.one {text-decoration: underline ;color: rgb(19, 241, 85);text-transform: uppercase;text-align: center;}
+.two {text-decoration: line-through;font-size: 25px;font-style: italic;}
+.three {text-decoration: overline;text-align: center;letter-spacing: 10px;text-shadow: 0.7px 0.7px 1px forestgreen;font-size: 30px;}
+.five::first-letter { text-transform: capitalize;text-indent: 50px;font-weight: 700;font-size: 20px;}
+.seven {font-family: 'Klee One', cursive;}
+.ramka {border: 4px solid blueviolet;border-radius: 200px;}
+.ramka {margin: 5px 200px ;}
+.ramka {padding: 10px;padding-left: 400px;}
+.ramka {background-color: burlywood;}
+.box {width: 1000px;height: 50px;}
+.box{border:4px dashed darkblue; font-size: 20px; background-color: #FFFFE0;}
+.dotted{border: 5px dotted crimson;margin-top: 10px;height: 80px;margin-right: 70px;margin-bottom: 20px;}
+.centre{width: 250px;margin-right: auto; margin-left: auto; border: 3px solid darkgoldenrod;}
+.link{margin-left: 100px;margin-right: 100px;border: 3px solid coral;padding-left: 20px;padding-right: 20px;}
+.linkh {display: inline-block; border: 3px solid rgb(37, 37, 36); border-radius: 30px;padding-right: 10px;padding-left: 10px;}
+.par{display: flex;height: 100px; border: 3px solid crimson;justify-content:flex-end;align-items: center;}
+.para{display: flex;flex-direction: column;border: 3px dashed rosybrown; justify-content: flex-end;align-items: center;margin: 20px 100px;}
+.page{display: flex; align-items: center; border: 3px solid black;justify-content: center;}
+.testwrap{display: flex;border: brown 3px solid;flex-wrap: wrap;margin-left: -10px;margin-top: -10px;}
+.card {margin-left: 10px;border: solid 3px black; margin-top: 10px;flex-basis: 600px;flex-basis: calc(100% / 3 - 10px);}
