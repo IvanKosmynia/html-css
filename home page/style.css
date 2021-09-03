@@ -13,8 +13,9 @@ body{
 
 .nav-container{
     display: flex;
-
+    align-items: center;
 }
+
 .logo-container{
     margin-right: 101px;
 }
@@ -22,6 +23,8 @@ body{
 .nav-list{
     display: flex;
     list-style-type: none;
+    margin-right: 380px;
+    padding: 0 0;
 }
 
 .nav-list__item{
@@ -38,4 +41,108 @@ body{
 
 .nav-list__item_first{
     margin-right: 5px;
+}
+
+.socials-box{
+    display: flex;
+}
+.socials{
+    display: flex;
+    margin-right: 49px;
+    align-items: center;
+}
+.social-list{
+    display: flex;
+    list-style-type: none;
+    width: 237px;
+    height: 23px;
+    padding: 0 0;
+}
+
+.social-list__item_first{
+    padding-right: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFF;
+}
+
+.social-list__item_second{
+    padding-right: 16px;
+}
+
+.social-list__item_three{
+    padding-right: 16px;
+}
+
+.social-list__item_four{
+    padding-right: 16px;
+}
+
+.social-list__item_five{
+    padding-right: 16px;
+}
+
+.register-list{
+    display: flex;
+    color:#fff ;
+    list-style-type: none;
+    margin-right: 92px;
+    padding: 0 0;
+}
+
+.register-list__item_first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: #344F63;
+    margin-right: 10px;
+}
+
+.register-list__item_second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 104px;
+    height: 35px;
+    background-color: #344F63;
+    margin-right: 10px;
+}
+
+.register-list__item_three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 104px;
+    height: 35px;
+    background-color: #0080DF;
+}
+
+.a_register_first{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 2px;
+}
+
+.a_register_second{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 2px;
+}
+
+.a_register_three{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 2px;
 }
