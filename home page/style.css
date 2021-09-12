@@ -82,8 +82,13 @@ ul{
     color: #FFF;
 }
 
-.social-list__item{
-    margin-right: 16px;
+.icon{
+    display:none
+}
+
+.icon_social{
+    width: 21px;
+    height: 21px;
 }
 
 .register-list{
@@ -131,4 +136,30 @@ ul{
     padding: 0 0;
 }
 
+.direction-list{
+    display: flex;
+    width: 172px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+}
 
+
+.direction-list__item{
+    width: 40px;
+    height: 40px;
+}
+.direction-list__item_first{
+    width: 76px;
+    height: 20px;
+    margin-right: 11px;
+}
+
+.direction-icon_use{
+    width: 40px;
+    height: 40px;
+}
+
+.direction-list__item_two{
+    margin-right: 5px;
+}

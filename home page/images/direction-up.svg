@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.15" d="M0 2C0 0.895431 0.895431 0 2 0H38C39.1046 0 40 0.895431 40 2V38C40 39.1046 39.1046 40 38 40H2C0.895431 40 0 39.1046 0 38V2Z" fill="#344F63"/>
+<path d="M20.0397 22.053L20.0397 16.9375" stroke="white"/>
+<circle cx="20.0397" cy="24.375" r="2.625" transform="rotate(-180 20.0397 24.375)" fill="white"/>
+<path d="M21.5 23.0083L25.2897 17.8684" stroke="white" stroke-miterlimit="10"/>
+<circle cx="26.1647" cy="15.625" r="2.625" transform="rotate(-180 26.1647 15.625)" fill="white"/>
+<circle cx="20.0397" cy="15.625" r="2.625" transform="rotate(-180 20.0397 15.625)" fill="white"/>
+<path d="M18.2898 23.0083L14.5 17.8684" stroke="white" stroke-miterlimit="10"/>
+<circle r="2.625" transform="matrix(1 1.74846e-07 1.74846e-07 -1 13.625 15.625)" fill="white"/>
+</svg>
